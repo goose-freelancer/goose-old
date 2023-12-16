@@ -33,7 +33,7 @@
     <p>Here's some text about our product it's named after an aggressive bird but actually it's about freelancers</p>
   </div>
 
-  <div class="h-1/5 grid grid-cols-5 items-center justify-center">
+  <div class="h-1/5 grid grid-cols-3 sm:grid-cols-5 items-center justify-center">
     <div>
       <a href="/about" class="font-medium text-cyan-500">Tell me more</a>
     </div>
