@@ -27,6 +27,11 @@
 
 </script>
 
+<svelte:head>
+  <title>GOOSE</title>
+  <meta name="description" content="GOOSE is a platform for freelancers to find work and for clients to find freelancers.">
+</svelte:head>
+
 <div class="h-full flex flex-col justify-center">
   <div class="h-4/5 flex flex-col justify-center">
     <h1 class="text-8xl font-bold mb-8">GOOSE</h1>
