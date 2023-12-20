@@ -47,21 +47,21 @@
   <div class="md:col-span-3 grid md:grid-cols-3 gap-4 mx-16 lg:mx-0 lg:gap-16 md:order-4">
     <a
       href="/about"
-      class="font-bold text-lg lg:text-2xl bg-welsh-slate py-4 md:py-8 text-center hover:bg-mint-green hover:text-mighty-purple transition"
+      class="font-bold text-lg lg:text-2xl bg-welsh-slate py-4 md:py-8 text-center"
     >
       Tell Me More
     </a>
 
     <a
       href="/survey"
-      class="font-bold text-lg lg:text-2xl bg-welsh-slate py-4 md:py-8 text-center hover:bg-mint-green hover:text-mighty-purple transition"
+      class="font-bold text-lg lg:text-2xl py-4 md:py-8 text-center bg-mint-green text-mighty-purple"
     >
       Survey
     </a>
 
     <a
       href="/blog"
-      class="font-bold text-lg lg:text-2xl bg-welsh-slate py-4 md:py-8 text-center hover:bg-mint-green hover:text-mighty-purple transition"
+      class="font-bold text-lg lg:text-2xl bg-welsh-slate py-4 md:py-8 text-center"
     >
       Blog
     </a>

@@ -19,10 +19,7 @@
         text-xl
         md:text-2xl
         bg-mint-green
-        hover:bg-welsh-slate
         text-mighty-purple
-        hover:text-mint-green
-        transition
         p-4
         md:p-8
         md:mx-8

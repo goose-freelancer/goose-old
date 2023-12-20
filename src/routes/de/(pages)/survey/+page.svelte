@@ -21,10 +21,7 @@
         bg-mint-green
         border
         border-mighty-purple
-        hover:bg-mighty-purple
         text-mighty-purple
-        hover:text-mint-green
-        transition
         p-4
         md:p-8
         md:mx-8
