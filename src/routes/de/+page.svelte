@@ -54,7 +54,7 @@
 
     <a
       href="/de/survey"
-      class="font-bold text-lg lg:text-2xl border py-4 md:py-8 text-center bg-mighty-purple text-mint-green"
+      class="font-bold text-lg lg:text-2xl py-4 md:py-8 text-center bg-mighty-purple text-mint-green"
     >
       Kurze Umfrage
     </a>
