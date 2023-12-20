@@ -35,7 +35,7 @@
 <div class="h-full grid md:grid-cols-4 md:grid-rows-3 gap-8 lg:gap-16 py-16 items-center">
 
   <div class="md:col-span-4 md:order-1">
-    <img src="/images/logo-green.svg" alt="Goose logo" class="w-1/2 mx-auto md:mx-none">
+    <img src="/images/logo-green.svg" alt="Goose logo" class="w-1/2 mx-auto md:mx-0">
   </div>
 
   <div class="md:col-span-3 md:order-2">
@@ -56,7 +56,7 @@
       href="/survey"
       class="font-bold text-lg lg:text-2xl bg-welsh-slate py-4 md:py-8 text-center hover:bg-mint-green hover:text-mighty-purple transition"
     >
-      Sign Up
+      Survey
     </a>
 
     <a
