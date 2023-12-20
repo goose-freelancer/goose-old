@@ -1,6 +1,6 @@
 <header class="">
   <a href="/de" class="">
-    <img src="/images/logo-green.svg" alt="Goose logo" class="w-1/3 mb-12">
+    <img src="/images/logo-purple.svg" alt="Goose logo" class="w-1/3 mb-12">
   </a>
 </header>
 

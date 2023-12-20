@@ -35,7 +35,7 @@
 <div class="h-full grid md:grid-cols-4 md:grid-rows-3 gap-8 lg:gap-16 py-16 items-center">
 
   <div class="md:col-span-4 md:order-1">
-    <img src="/images/logo-green.svg" alt="Goose logo" class="w-1/2 mx-auto md:mx-none">
+    <img src="/images/logo-purple.svg" alt="Goose logo" class="w-1/2 mx-auto md:mx-none">
   </div>
 
   <div class="md:col-span-3 md:order-2">
@@ -47,21 +47,21 @@
   <div class="md:col-span-3 grid md:grid-cols-3 gap-4 mx-16 lg:mx-0 lg:gap-16 md:order-4">
     <a
       href="/de/about"
-      class="font-bold text-lg lg:text-2xl bg-welsh-slate py-4 md:py-8 text-center hover:bg-mint-green hover:text-mighty-purple transition"
+      class="font-bold text-lg lg:text-2xl bg-mint-green border border-mighty-purple py-4 md:py-8 text-center hover:bg-mighty-purple hover:text-mint-green transition"
     >
       Mehr Wissen
     </a>
 
     <a
       href="/de/survey"
-      class="font-bold text-lg lg:text-2xl bg-welsh-slate py-4 md:py-8 text-center hover:bg-mint-green hover:text-mighty-purple transition"
+      class="font-bold text-lg lg:text-2xl bg-mint-green border border-mighty-purple py-4 md:py-8 text-center hover:bg-mighty-purple hover:text-mint-green transition"
     >
       Anmelden
     </a>
 
     <a
       href="/de/blog"
-      class="font-bold text-lg lg:text-2xl bg-welsh-slate py-4 md:py-8 text-center hover:bg-mint-green hover:text-mighty-purple transition"
+      class="font-bold text-lg lg:text-2xl bg-mint-green border border-mighty-purple py-4 md:py-8 text-center hover:bg-mighty-purple hover:text-mint-green transition"
     >
       Blog
     </a>

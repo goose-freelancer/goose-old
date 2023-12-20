@@ -19,7 +19,9 @@
         text-xl
         md:text-2xl
         bg-mint-green
-        hover:bg-welsh-slate
+        border
+        border-mighty-purple
+        hover:bg-mighty-purple
         text-mighty-purple
         hover:text-mint-green
         transition
