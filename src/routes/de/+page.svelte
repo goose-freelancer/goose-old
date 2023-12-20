@@ -70,10 +70,10 @@
   <div class="
     -mx-4
     md:mx-0
-    bg-mint-green
+    bg-mighty-purple
+    text-mint-green
     md:row-span-2
     self-stretch
-    text-mighty-purple
     grid
     grid-rows-3
     items-stretch
@@ -86,18 +86,18 @@
       Einführung in
     </h2>
     <div class="mx-16 md:mx-0 grid grid-cols-4 justify-center gap-1 relative">
-      <hr class="absolute w-full h-px bg-mint-green border-0 top-1/2" />
+      <hr class="absolute w-full h-px bg-mighty-purple border-0 top-1/2" />
 
-      <div class="flex items-center justify-center md:text-3xl font-bold bg-mighty-purple text-mint-green">
+      <div class="flex items-center justify-center md:text-3xl font-bold bg-mint-green text-mighty-purple">
         {months}
       </div>
-      <div class="flex items-center justify-center md:text-3xl font-bold bg-mighty-purple text-mint-green">
+      <div class="flex items-center justify-center md:text-3xl font-bold bg-mint-green text-mighty-purple">
         {days}
       </div>
-      <div class="flex items-center justify-center md:text-3xl font-bold bg-mighty-purple text-mint-green">
+      <div class="flex items-center justify-center md:text-3xl font-bold bg-mint-green text-mighty-purple">
         {hours}
       </div>
-      <div class="flex items-center justify-center md:text-3xl font-bold bg-mighty-purple text-mint-green">
+      <div class="flex items-center justify-center md:text-3xl font-bold bg-mint-green text-mighty-purple">
         {seconds}
       </div>
     </div>
