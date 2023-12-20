@@ -6,7 +6,7 @@
   </div>
   <div class="md:order-1 col-span-3 h-full overflow-auto px-16">
     <p class="mb-8">
-      Hi 👋🏾 I’m <a href="mailto:tuleka@goosefreelancer.com" class="underline">Tuleka!</a> Thanks for stopping by 🙂 Below is a brief backstory and explainer about what all this is about.
+      Hi 👋🏾 I’m <a href="https://www.linkedin.com/in/tuleka-prah-phd-55b22115a/" target="_blank" class="underline">Tuleka!</a> Thanks for stopping by 🙂 Below is a brief backstory and explainer about what all this is about.
     </p>
 
     <p class="mb-8">

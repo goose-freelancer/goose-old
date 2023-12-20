@@ -7,7 +7,7 @@
   <div class="md:order-1 col-span-3 h-full overflow-auto px-16">
 
     <p class="mb-8">
-      Hallo 👋🏾 Ich bin <a href="mailto:tuleka@goosefreelancer.com" class="underline">Tuleka</a>! Danke fürs Vorbeischauen 🙂 Nachfolgend eine kurze Vorgeschichte und Erklärung, worum es hier geht.
+      Hallo 👋🏾 Ich bin <a href="https://www.linkedin.com/in/tuleka-prah-phd-55b22115a/" target="_blank" class="underline">Tuleka</a>! Danke fürs Vorbeischauen 🙂 Nachfolgend eine kurze Vorgeschichte und Erklärung, worum es hier geht.
     </p>
 
     <p class="mb-8">
