@@ -3,7 +3,7 @@
 
   import { page } from "$app/stores";
 
-  $: routeId = $page.route.id.replace("/(pages)", "");
+  $: routeId = $page.route.id?.replace("/(pages)", "");
   $: isGerman = routeId.startsWith("/de");
 
   let enLink
