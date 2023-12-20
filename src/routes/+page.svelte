@@ -28,23 +28,23 @@
 </script>
 
 <svelte:head>
-  <title>GOOSE</title>
-  <meta name="description" content="GOOSE is a platform for freelancers to find work and for clients to find freelancers.">
+  <title>Goose</title>
+  <meta name="description" content="Goose is a platform for freelancers to find work and for clients to find freelancers.">
 </svelte:head>
 
-<div class="h-full grid sm:grid-cols-4 sm:grid-rows-3 gap-8 sm:gap-16 py-16 items-center">
+<div class="h-full grid md:grid-cols-4 md:grid-rows-3 gap-8 lg:gap-16 py-16 items-center">
 
-  <h1 class="sm:col-span-4 text-8xl sm:text-9xl font-bold">
-    GOOSE
-  </h1>
+  <div class="md:col-span-4">
+    <img src="/images/logo-green.svg" alt="Goose logo" class="w-1/2">
+  </div>
 
-  <div class="sm:col-span-3">
+  <div class="md:col-span-3">
     <p class="text-xl">
       Our mission is to support you as a freelancer by taking care of your key pain points, so you can focus on taking care of your wellbeing, and work goals.
     </p>
   </div>
 
-  <div class="bg-mint-green sm:row-span-2 self-stretch text-mighty-purple grid grid-rows-3 items-stretch px-4 gap-1 sm:gap-2">
+  <div class="bg-mint-green md:row-span-2 self-stretch text-mighty-purple grid grid-rows-3 items-stretch px-4 gap-1 md:gap-2">
     <h2 class="text-2xl font-bold text-center py-8">
       Launching in
     </h2>
@@ -82,21 +82,21 @@
 
   <a
     href="/about"
-    class="font-bold text-xl md:text-3xl bg-welsh-slate py-8 text-center hover:bg-mint-green hover:text-mighty-purple transition"
+    class="font-bold text-xl lg:text-2xl bg-welsh-slate py-8 text-center hover:bg-mint-green hover:text-mighty-purple transition"
   >
     Tell Me More
   </a>
 
   <a
     href="/survey"
-    class="font-bold text-xl md:text-3xl bg-welsh-slate py-8 text-center hover:bg-mint-green hover:text-mighty-purple transition"
+    class="font-bold text-xl lg:text-2xl bg-welsh-slate py-8 text-center hover:bg-mint-green hover:text-mighty-purple transition"
   >
     Sign Up
   </a>
 
   <a
     href="/blog"
-    class="font-bold text-xl md:text-3xl bg-welsh-slate py-8 text-center hover:bg-mint-green hover:text-mighty-purple transition"
+    class="font-bold text-xl lg:text-2xl bg-welsh-slate py-8 text-center hover:bg-mint-green hover:text-mighty-purple transition"
   >
     Blog
   </a>

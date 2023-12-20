@@ -1,9 +1,10 @@
 
 <div class="grow overflow-hidden flex flex-col sm:grid sm:grid-cols-5 items-top gap-12">
-  <div class="sm:order-2 col-span-2">
-    <img src="/images/tuleka.jpg" alt="Tuleka">
+  <div class="sm:order-2 col-span-2 flex flex-col gap-4 items-center">
+    <img src="/images/tuleka.jpg" alt="Tuleka" class="">
+    <a href="mailto:tuleka@goosefreelancer.com">tuleka@goosefreelancer.com</a>
   </div>
-  <div class="sm:order-1 col-span-3 h-full overflow-auto">
+  <div class="sm:order-1 col-span-3 h-full overflow-auto px-16">
     <p class="mb-8">
       Hi 👋🏾 I’m <a href="mailto:tuleka@goosefreelancer.com" class="underline">Tuleka!</a> Thanks for stopping by ☺️ Below is a brief backstory and explainer about what all this is about.
     </p>

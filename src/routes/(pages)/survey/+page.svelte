@@ -1,5 +1,5 @@
 
-<div class="h-full flex flex-col justify-center sm:grid sm:grid-cols-5 items-top gap-12">
+<div class="h-full flex flex-col justify-center items-center sm:grid sm:grid-cols-5 items-top gap-12">
   <div class="sm:col-span-3">
     <p class="mb-8 text-lg">
       Thanks for your interest – we’re eager to learn about what your challenges as a freelancer are, and are excited to be given the opportunity to potentially address these. Please follow the prompts, and that’s basically it!
@@ -30,7 +30,7 @@
         transition
       "
     >
-      Short Survey
+      Quick Survey
     </a>
   </div>
 </div>

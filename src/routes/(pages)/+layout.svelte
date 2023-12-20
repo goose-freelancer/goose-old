@@ -1,6 +1,6 @@
 <header class="">
-  <a href="/">
-    <h1 class="text-5xl font-bold mb-12">GOOSE</h1>
+  <a href="/" class="">
+    <img src="/images/logo-green.svg" alt="Goose logo" class="w-1/3 mb-12">
   </a>
 </header>
 
