@@ -32,35 +32,70 @@
   <meta name="description" content="GOOSE is a platform for freelancers to find work and for clients to find freelancers.">
 </svelte:head>
 
-<div class="h-full flex flex-col justify-center">
-  <div class="h-4/5 flex flex-col justify-center">
-    <h1 class="text-8xl font-bold mb-8">GOOSE</h1>
-    <p>Here's some text about our product it's named after an aggressive bird but actually it's about freelancers</p>
+<div class="h-full grid grid-cols-4 grid-rows-3 gap-16 py-16 items-center">
+
+  <h1 class="col-span-4 text-9xl font-bold">
+    GOOSE
+  </h1>
+
+  <div class="col-span-3">
+    <p class="text-xl">
+      Our mission is to support you as a freelancer by taking care of your key pain points, so you can focus on taking care of your wellbeing, and work goals.
+    </p>
   </div>
 
-  <div class="h-1/5 grid grid-cols-3 sm:grid-cols-5 items-center justify-center">
-    <div>
-      <a href="/about" class="font-medium text-cyan-500">Tell me more</a>
+  <div class="bg-mint-green row-span-2 self-stretch text-mighty-purple grid grid-rows-3 items-stretch px-4 gap-2">
+    <h2 class="text-4xl font-medium text-center py-8">
+      Launching in
+    </h2>
+    <div class="grid grid-cols-4 justify-center gap-1">
+      <div class="flex items-center justify-center text-4xl font-bold bg-mighty-purple text-mint-green">
+        {months}
+      </div>
+      <div class="flex items-center justify-center text-4xl font-bold bg-mighty-purple text-mint-green">
+        {days}
+      </div>
+      <div class="flex items-center justify-center text-4xl font-bold bg-mighty-purple text-mint-green">
+        {hours}
+      </div>
+      <div class="flex items-center justify-center text-4xl font-bold bg-mighty-purple text-mint-green">
+        {seconds}
+      </div>
     </div>
-
-    <div>
-      <a href="/survey" class="font-medium text-cyan-500">Sign up</a>
-    </div>
-
-    <div>
-      <a href="/blog" class="font-medium text-cyan-500">Blog</a>
-    </div>
-
-    <div class="bg-yellow-200 col-span-4 md:col-span-2 h-full flex flex-col justify-center p-4">
-      <h2 class="text-xl font-bold mb-2">
-        Hatching in
-        <span class="text-sm">
-          {months} months, {days} days, {hours} hours and {seconds} seconds!
-        </span>
-      </h2>
-      <p class="text-sm">
-        September 2024
-      </p>
+    <div class="grid grid-cols-4 font-bold">
+      <div class="text-center">
+        months
+      </div>
+      <div class="text-center">
+        days
+      </div>
+      <div class="text-center">
+        hours
+      </div>
+      <div class="text-center">
+        seconds
+      </div>
     </div>
   </div>
+
+    <a
+      href="/about"
+      class="font-bold text-4xl bg-welsh-slate py-8 text-center hover:bg-mint-green hover:text-mighty-purple transition"
+    >
+      Tell Me More
+    </a>
+
+    <a
+      href="/survey"
+      class="font-bold text-4xl bg-welsh-slate py-8 text-center hover:bg-mint-green hover:text-mighty-purple transition"
+    >
+      Sign Up
+    </a>
+
+    <a
+      href="/blog"
+      class="font-bold text-4xl bg-welsh-slate py-8 text-center hover:bg-mint-green hover:text-mighty-purple transition"
+    >
+      Blog
+    </a>
 </div>
