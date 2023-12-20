@@ -23,7 +23,7 @@
 
   setInterval(() => {
     ({ months, days, hours, seconds } = timeUntilSeptember2024());
-  }, 1000);
+  }, 60 * 1000);
 
 </script>
 
