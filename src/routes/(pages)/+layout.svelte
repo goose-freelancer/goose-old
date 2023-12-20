@@ -4,6 +4,6 @@
   </a>
 </header>
 
-<main class="h-full">
+<main class="grow md:overflow-hidden flex">
   <slot />
 </main>

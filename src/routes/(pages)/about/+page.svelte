@@ -1,11 +1,11 @@
 
-<div class="flex flex-col sm:grid sm:grid-cols-5 items-top gap-12">
+<div class="grow overflow-hidden flex flex-col sm:grid sm:grid-cols-5 items-top gap-12">
   <div class="sm:order-2 col-span-2">
     <img src="/images/tuleka.jpg" alt="Tuleka">
   </div>
-  <div class="sm:order-1 col-span-3">
+  <div class="sm:order-1 col-span-3 h-full overflow-auto">
     <p class="mb-8">
-      Hi 👋🏾 I’m <a href="mailto:tuleka@goosefreelancer.com">Tuleka!</a> Thanks for stopping by ☺️ Below is a brief backstory and explainer about what all this is about.
+      Hi 👋🏾 I’m <a href="mailto:tuleka@goosefreelancer.com" class="underline">Tuleka!</a> Thanks for stopping by ☺️ Below is a brief backstory and explainer about what all this is about.
     </p>
 
     <p class="mb-8">
