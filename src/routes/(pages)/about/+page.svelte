@@ -1,5 +1,5 @@
 
-<div class="sm:grid sm:grid-cols-5 items-top gap-12">
+<div class="flex flex-col sm:grid sm:grid-cols-5 items-top gap-12">
   <div class="sm:order-2 col-span-2">
     <img src="/images/tuleka.jpg" alt="Tuleka">
   </div>
@@ -25,7 +25,7 @@
     </p>
 
     <p class="mb-8">
-      What happens now? If you click <a href="https://goosefreelancer.typeform.com/to/fm1nQBo8" target="_blank">here</a>, you’ll be taken to a window where you’ll be asked to enter basic information (name, area of work, email), and to fill out a 5-question, anonymous survey.
+      What happens now? If you click <a href="https://goosefreelancer.typeform.com/to/fm1nQBo8" target="_blank" class="underline">here</a>, you’ll be taken to a window where you’ll be asked to enter basic information (name, area of work, email), and to fill out a 5-question, anonymous survey.
     </p>
 
     <p class="mb-8">
