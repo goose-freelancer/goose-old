@@ -10,7 +10,7 @@
     </p>
 
     <p class="mb-8">
-      Triggers & motivation: Prior to my recent role as a full-time employee at a startup, I’d been a freelancer in the creative industries for over 11 years. Those were some of the most rewarding and dynamic years of my employed life – I worked on so many interesting projects with lots of fascinating people and teams. In that time, tho, I also experienced a lot of stress and anxiety, stemming mainly from three key issues. I never really wanted to give up working as a freelancer, but those stressors eventually became a bit too much to bear.
+      <strong>Triggers & motivation</strong>: Prior to my recent role as a full-time employee at a startup, I’d been a freelancer in the creative industries for over 11 years. Those were some of the most rewarding and dynamic years of my employed life – I worked on so many interesting projects with lots of fascinating people and teams. In that time, tho, I also experienced a lot of stress and anxiety, stemming mainly from three key issues. I never really wanted to give up working as a freelancer, but those stressors eventually became a bit too much to bear.
     </p>
 
     <p class="mb-8">
@@ -18,15 +18,15 @@
     </p>
 
     <p class="mb-8">
-      How? Well, we at Goose would love to establish a service that supports and protects freelancers by directly addressing the key challenges faced by many in this world of work. But because what I’d experienced are my experiences, it won’t make sense to build something based on those alone; how can I propose to establish a service that addresses key pain points, without asking the community directly?
+      <strong>How?</strong> Well, we at Goose would love to establish a service that supports and protects freelancers by directly addressing the key challenges faced by many in this world of work. But because what I’d experienced are my experiences, it won’t make sense to build something based on those alone; how can I propose to establish a service that addresses key pain points, without asking the community directly?
     </p>
 
     <p class="mb-8">
-      So, this is me doing that! I’d love your input on what your biggest challenges are when it comes to freelancing. What are your burdens – what causes you frustration, stress, and anxiety when it comes to being a freelancer? With your responses, we can develop a service that truly supports freelancers, because it’ll be built in direct collaboration and communication with the community.
+      So, this is me doing that! I’d love your input on what your biggest challenges are when it comes to freelancing. <strong>What are your burdens – what causes you frustration, stress, and anxiety when it comes to being a freelancer?</strong> With your responses, we can develop a service that truly supports freelancers, because it’ll be built in direct collaboration and communication with the community.
     </p>
 
     <p class="mb-8">
-      What happens now? If you click <a href="https://goosefreelancer.typeform.com/to/fm1nQBo8" target="_blank" class="underline">here</a>, you’ll be taken to a window where you’ll be asked to enter basic information (name, area of work, email), and to fill out a 5-question, anonymous survey.
+      <strong>What happens now?</strong> If you click <a href="https://goosefreelancer.typeform.com/to/fm1nQBo8" target="_blank" class="underline">here</a>, you’ll be taken to a window where you’ll be asked to enter basic information (name, area of work, email), and to fill out a 5-question, anonymous survey.
     </p>
 
     <p class="mb-8">

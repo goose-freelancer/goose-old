@@ -49,7 +49,7 @@
       href="/de/about"
       class="font-bold text-lg lg:text-2xl bg-mint-green border border-mighty-purple py-4 md:py-8 text-center"
     >
-      Mehr Wissen
+      Motivation
     </a>
 
     <a
