@@ -4,6 +4,6 @@
   </a>
 </header>
 
-<main class="h-full pt-8">
+<main class="h-full">
   <slot />
 </main>

@@ -32,9 +32,9 @@
   <meta name="description" content="GOOSE is a platform for freelancers to find work and for clients to find freelancers.">
 </svelte:head>
 
-<div class="h-full grid sm:grid-cols-4 sm:grid-rows-3 gap-12 sm:gap-16 py-16 items-center">
+<div class="h-full grid sm:grid-cols-4 sm:grid-rows-3 gap-8 sm:gap-16 py-16 items-center">
 
-  <h1 class="sm:col-span-4 text-9xl font-bold">
+  <h1 class="sm:col-span-4 text-8xl sm:text-9xl font-bold">
     GOOSE
   </h1>
 
@@ -44,7 +44,7 @@
     </p>
   </div>
 
-  <div class="bg-mint-green sm:row-span-2 self-stretch text-mighty-purple grid grid-rows-3 items-stretch px-4 gap-2">
+  <div class="bg-mint-green sm:row-span-2 self-stretch text-mighty-purple grid grid-rows-3 items-stretch px-4 gap-1 sm:gap-2">
     <h2 class="text-2xl font-bold text-center py-8">
       Launching in
     </h2>
@@ -75,7 +75,7 @@
         hours
       </div>
       <div class="text-center text-xs">
-        seconds
+        minutes
       </div>
     </div>
   </div>
