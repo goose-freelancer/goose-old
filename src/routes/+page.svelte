@@ -34,37 +34,74 @@
 
 <div class="h-full grid md:grid-cols-4 md:grid-rows-3 gap-8 lg:gap-16 py-16 items-center">
 
-  <div class="md:col-span-4">
-    <img src="/images/logo-green.svg" alt="Goose logo" class="w-1/2">
+  <div class="md:col-span-4 md:order-1">
+    <img src="/images/logo-green.svg" alt="Goose logo" class="w-1/2 mx-auto md:mx-none">
   </div>
 
-  <div class="md:col-span-3">
-    <p class="text-xl">
+  <div class="md:col-span-3 md:order-2">
+    <p class="text-sm md:text-xl">
       Our mission is to support you as a freelancer by taking care of your key pain points, so you can focus on taking care of your wellbeing, and work goals.
     </p>
   </div>
 
-  <div class="bg-mint-green md:row-span-2 self-stretch text-mighty-purple grid grid-rows-3 items-stretch px-4 gap-1 md:gap-2">
-    <h2 class="text-2xl font-bold text-center py-8">
+  <div class="md:col-span-3 grid md:grid-cols-3 gap-4 mx-16 lg:mx-0 lg:gap-16 md:order-4">
+    <a
+      href="/about"
+      class="font-bold text-lg lg:text-2xl bg-welsh-slate py-4 md:py-8 text-center hover:bg-mint-green hover:text-mighty-purple transition"
+    >
+      Tell Me More
+    </a>
+
+    <a
+      href="/survey"
+      class="font-bold text-lg lg:text-2xl bg-welsh-slate py-4 md:py-8 text-center hover:bg-mint-green hover:text-mighty-purple transition"
+    >
+      Sign Up
+    </a>
+
+    <a
+      href="/blog"
+      class="font-bold text-lg lg:text-2xl bg-welsh-slate py-4 md:py-8 text-center hover:bg-mint-green hover:text-mighty-purple transition"
+    >
+      Blog
+    </a>
+  </div>
+
+  <div class="
+    -mx-4
+    md:mx-0
+    bg-mint-green
+    md:row-span-2
+    self-stretch
+    text-mighty-purple
+    grid
+    grid-rows-3
+    items-stretch
+    px-4
+    gap-1
+    md:gap-2
+    md:order-3
+  ">
+    <h2 class="md:text-2xl font-bold text-center py-4 md:py-8">
       Launching in
     </h2>
-    <div class="grid grid-cols-4 justify-center gap-1 relative">
+    <div class="mx-16 md:mx-0 grid grid-cols-4 justify-center gap-1 relative">
       <hr class="absolute w-full h-px bg-mint-green border-0 top-1/2" />
 
-      <div class="flex items-center justify-center text-3xl font-bold bg-mighty-purple text-mint-green">
+      <div class="flex items-center justify-center md:text-3xl font-bold bg-mighty-purple text-mint-green">
         {months}
       </div>
-      <div class="flex items-center justify-center text-3xl font-bold bg-mighty-purple text-mint-green">
+      <div class="flex items-center justify-center md:text-3xl font-bold bg-mighty-purple text-mint-green">
         {days}
       </div>
-      <div class="flex items-center justify-center text-3xl font-bold bg-mighty-purple text-mint-green">
+      <div class="flex items-center justify-center md:text-3xl font-bold bg-mighty-purple text-mint-green">
         {hours}
       </div>
-      <div class="flex items-center justify-center text-3xl font-bold bg-mighty-purple text-mint-green">
+      <div class="flex items-center justify-center md:text-3xl font-bold bg-mighty-purple text-mint-green">
         {seconds}
       </div>
     </div>
-    <div class="grid grid-cols-4 font-bold gap-1">
+    <div class="mx-16 md:mx-0 grid grid-cols-4 font-bold gap-1">
       <div class="text-center text-xs">
         months
       </div>
@@ -79,25 +116,4 @@
       </div>
     </div>
   </div>
-
-  <a
-    href="/about"
-    class="font-bold text-xl lg:text-2xl bg-welsh-slate py-8 text-center hover:bg-mint-green hover:text-mighty-purple transition"
-  >
-    Tell Me More
-  </a>
-
-  <a
-    href="/survey"
-    class="font-bold text-xl lg:text-2xl bg-welsh-slate py-8 text-center hover:bg-mint-green hover:text-mighty-purple transition"
-  >
-    Sign Up
-  </a>
-
-  <a
-    href="/blog"
-    class="font-bold text-xl lg:text-2xl bg-welsh-slate py-8 text-center hover:bg-mint-green hover:text-mighty-purple transition"
-  >
-    Blog
-  </a>
 </div>
