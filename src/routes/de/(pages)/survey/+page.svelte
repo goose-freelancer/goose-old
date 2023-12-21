@@ -12,7 +12,7 @@
 
   <div class="sm:col-span-2 mb-8">
     <a
-      href="https://goosefreelancer.typeform.com/to/fm1nQBo8"
+      href="https://goosefreelancer.typeform.com/to/GiPNKtzS"
       target="_blank"
       class="
         font-bold

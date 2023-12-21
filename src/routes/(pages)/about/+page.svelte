@@ -26,7 +26,7 @@
     </p>
 
     <p class="mb-8">
-      <strong>What happens now?</strong> If you click <a href="https://goosefreelancer.typeform.com/to/fm1nQBo8" target="_blank" class="underline">here</a>, you’ll be taken to a window where you’ll be asked to enter basic information (name, area of work, email), and to fill out a 5-question, anonymous survey.
+      <strong>What happens now?</strong> If you click <a href="https://goosefreelancer.typeform.com/to/GiPNKtzS" target="_blank" class="underline">here</a>, you’ll be taken to a window where you’ll be asked to enter basic information (name, area of work, email), and to fill out a 5-question, anonymous survey.
     </p>
 
     <p class="mb-8">
