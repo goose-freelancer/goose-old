@@ -14,7 +14,7 @@
     </p>
 
     <p class="mb-8">
-      Then a few months ago, whilst on parental leave, I found myself reflecting on potentially returning to freelancing. When I did, I felt all the anxieties creeping up again. This time, however, I’m much better-placed to affect positive change in the employment model that gave me so much happiness and freedom; I’m energized by the thought, and can’t think of a better way of directing my skills and expertise..
+      Then a few months ago, whilst on parental leave, I found myself reflecting on potentially returning to freelancing. When I did, I felt all the anxieties creeping up again. This time, however, I’m much better-placed to affect positive change in the employment model that gave me so much happiness and freedom; I’m energized by the thought, and can’t think of a better way of directing my skills and expertise.
     </p>
 
     <p class="mb-8">
