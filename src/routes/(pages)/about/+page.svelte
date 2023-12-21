@@ -18,7 +18,7 @@
     </p>
 
     <p class="mb-8">
-      <strong>How?</strong> Well, we at Goose would love to establish a service that supports and protects freelancers by directly addressing the key challenges faced by many in this world of work. But because what I’d experienced are my experiences, it won’t make sense to build something based on those alone; how can I propose to establish a service that addresses key pain points, without asking the community directly?
+      <strong>How?</strong> Well, we at Goose would love to establish a service that supports and protects freelancers by directly addressing the key challenges faced by many in this world of work. But because what I’d experienced are <i>my</i> experiences, it won’t make sense to build something based on those alone; how can I propose to establish a service that addresses key pain points, without asking the community directly?
     </p>
 
     <p class="mb-8">

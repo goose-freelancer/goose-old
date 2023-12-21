@@ -2,9 +2,6 @@
 export default {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
-    fontFamily: {
-      body: ['MDIO', 'sans-serif'],
-    },
     extend: {
       colors: {
         'mint-green': '#a1e8af',
