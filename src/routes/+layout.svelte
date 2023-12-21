@@ -24,7 +24,7 @@
 </script>
 
 <div
-  class="min-h-screen md:h-screen px-4 lg:px-24 pt-4 md:pt-16 bg-mighty-purple text-mint-green font-mono flex flex-col relative"
+  class="min-h-screen md:h-screen px-4 lg:px-24 pt-4 md:pt-16 bg-mighty-purple text-mint-green flex flex-col relative"
   class:!bg-mint-green={isGerman}
   class:!text-mighty-purple={isGerman}>
   <div class="absolute top-4 md:top-8 right-8 md:right-16 grid grid-cols-2 text-2xl">
