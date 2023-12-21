@@ -18,10 +18,9 @@
         font-bold
         text-xl
         md:text-2xl
-        bg-mint-green
         border
-        border-mighty-purple
-        text-mighty-purple
+        bg-mighty-purple
+        text-mint-green
         p-4
         md:p-8
         md:mx-8
