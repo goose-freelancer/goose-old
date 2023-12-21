@@ -27,7 +27,7 @@
     </p>
 
     <p class="mb-8">
-      <strong>Wie geht es jetzt weiter?</strong> Wenn Sie <a href="https://goosefreelancer.typeform.com/to/fm1nQBo8" target="_blank" class="underline">hier</a> klicken, werden Sie zu einem Fenster weitergeleitet, in dem Sie aufgefordert werden, grundlegende Informationen einzugeben (Name, Arbeitsbereich, E-Mail) und eine anonyme Umfrage mit 5 Fragen auszufüllen.
+      <strong>Wie geht es jetzt weiter?</strong> Wenn Sie <a href="https://goosefreelancer.typeform.com/to/fm1nQBo8" target="_blank" class="underline">hier</a> klicken, werden Sie zu einem Fenster weitergeleitet, in dem Sie gebeten werden, eine kurze Umfrage über Ihre Erfahrungen als Freiberufler auszufüllen.
     </p>
 
     <p class="mb-8">
