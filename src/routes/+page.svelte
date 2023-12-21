@@ -39,7 +39,7 @@
   </div>
 
   <div class="md:col-span-3 md:order-2">
-    <p class="text-sm md:text-xl">
+    <p class="text-sm md:text-xl text-center md:text-left">
       Our mission is to support you as a freelancer by taking care of your key pain points, so you can focus on taking care of your wellbeing, and work goals.
     </p>
   </div>

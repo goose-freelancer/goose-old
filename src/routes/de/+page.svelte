@@ -39,7 +39,7 @@
   </div>
 
   <div class="md:col-span-3 md:order-2">
-    <p class="text-sm md:text-xl">
+    <p class="text-sm md:text-xl text-center md:text-left">
       Unser Ziel ist es, Sie als Freiberufler zu unterstützen, indem wir uns um Ihre wichtigsten Probleme kümmern, damit Sie sich auf Ihr Wohlbefinden und Ihre beruflichen Ziele konzentrieren können.
     </p>
   </div>
