@@ -40,7 +40,7 @@
 
   <div class="md:col-span-3 md:order-2">
     <p class="text-sm md:text-xl text-center md:text-left">
-      Unser Ziel ist es, Sie als Freiberufler zu unterstützen, indem wir uns um Ihre wichtigsten Probleme kümmern, damit Sie sich auf Ihr Wohlbefinden und Ihre beruflichen Ziele konzentrieren können.
+      Wir kümmern uns um deine wichtigsten Probleme, damit du dich auf dein Wohlbefinden, deine beruflichen Prioritäten und deine Ziele konzentrieren kannst.
     </p>
   </div>
 
@@ -82,9 +82,12 @@
     md:gap-2
     md:order-3
   ">
-    <h2 class="md:text-2xl font-bold text-center py-4 md:py-8">
-      Einführung in
-    </h2>
+    <div class="text-center py-4 md:py-8">
+      <h3 class="mb-2">Official site & service</h3>
+      <h2 class="md:text-2xl font-bold">
+        launching in
+      </h2>
+    </div>
     <div class="mx-16 md:mx-0 grid grid-cols-4 justify-center gap-1 relative">
       <hr class="absolute w-full h-px bg-mighty-purple border-0 top-1/2" />
 

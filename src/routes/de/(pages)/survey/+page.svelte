@@ -2,11 +2,11 @@
 <div class="h-full flex flex-col justify-center items-center sm:grid sm:grid-cols-5 items-top gap-12">
   <div class="sm:col-span-3">
     <p class="mb-8 md:text-lg">
-      Vielen Dank für Ihr Interesse - wir sind gespannt darauf, zu erfahren, welche Herausforderungen Sie als Freiberufler haben, und freuen uns auf die Möglichkeit, diese möglicherweise zu lösen. Bitte folgen Sie den Aufforderungen, und das war's auch schon!
+      Vielen Dank für dein Interesse – wir sind gespannt auf deine Herausforderungen als Freiberufler und freuen uns, dass du uns die Möglichkeit gibst, diese zu lösen. Bitte folgt den Aufforderungen, und das war's auch schon!
     </p>
 
     <p class="md:text-lg">
-      Wir freuen uns darauf, Sie über Ihre Kontakt-E-Mail über Fortschritte und Aktualisierungen zu informieren und Ihnen mitzuteilen, sobald der Dienst einsatzbereit ist 🤗
+      Wir freuen uns darauf, über deine Kontakt-E-Mail mit dir in Kontakt zu bleiben und dich über Fortschritte und Updates zu informieren, sobald der Dienst einsatzbereit ist 🤗
     </p>
   </div>
 

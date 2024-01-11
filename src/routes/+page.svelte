@@ -40,7 +40,7 @@
 
   <div class="md:col-span-3 md:order-2">
     <p class="text-sm md:text-xl text-center md:text-left">
-      Our mission is to support you as a freelancer by taking care of your key pain points, so you can focus on taking care of your wellbeing, and work goals.
+      We’ll take care of your key pain points so that you can focus on taking care of your wellbeing, your work priorities, and your goals.
     </p>
   </div>
 
@@ -82,9 +82,14 @@
     md:gap-2
     md:order-3
   ">
-    <h2 class="md:text-2xl font-bold text-center py-4 md:py-8">
-      Launching in
-    </h2>
+    <div class="text-center py-4 md:py-8">
+      <h3 class="mb-2">
+        Offizielle Website & Service
+      </h3>
+      <h2 class="md:text-2xl font-bold">
+        Einführung in
+      </h2>
+    </div>
     <div class="mx-16 md:mx-0 grid grid-cols-4 justify-center gap-1 relative">
       <hr class="absolute w-full h-px bg-mint-green border-0 top-1/2" />
 
