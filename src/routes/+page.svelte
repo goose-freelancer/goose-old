@@ -47,21 +47,21 @@
   <div class="md:col-span-3 grid md:grid-cols-3 gap-4 mx-16 lg:mx-0 lg:gap-16 md:order-4">
     <a
       href="/about"
-      class="font-bold text-lg lg:text-2xl bg-welsh-slate py-4 md:py-8 text-center"
+      class="text-lg lg:text-xl bg-welsh-slate py-4 md:py-6 text-center"
     >
       Tell Me More
     </a>
 
     <a
       href="/survey"
-      class="font-bold text-lg lg:text-2xl py-4 md:py-8 text-center bg-mint-green text-mighty-purple"
+      class="text-lg lg:text-xl py-4 md:py-6 text-center bg-mint-green text-mighty-purple"
     >
       Survey
     </a>
 
     <a
       href="/blog"
-      class="font-bold text-lg lg:text-2xl bg-welsh-slate py-4 md:py-8 text-center"
+      class="text-lg lg:text-xl bg-welsh-slate py-4 md:py-6 text-center"
     >
       Blog
     </a>
@@ -71,53 +71,56 @@
     -mx-4
     md:mx-0
     bg-mint-green
+    text-mighty-purple
     md:row-span-2
     self-stretch
-    text-mighty-purple
     grid
-    grid-rows-3
+    grid-rows-2
     items-stretch
-    px-4
+    px-2
     gap-1
     md:gap-2
     md:order-3
   ">
     <div class="text-center py-4 md:py-8">
       <h3 class="mb-2">
-        Offizielle Website & Service
+        Official site & service
       </h3>
       <h2 class="md:text-2xl font-bold">
-        Einführung in
+        launching in
       </h2>
     </div>
-    <div class="mx-16 md:mx-0 grid grid-cols-4 justify-center gap-1 relative">
-      <hr class="absolute w-full h-px bg-mint-green border-0 top-1/2" />
+    <div class="mx-16 md:mx-0 flex flex-col justify-stretch">
+      <div class="grid grid-cols-4 justify-center gap-1 relative">
+        <hr class="absolute w-full h-px bg-mint-green border-0 top-1/2" />
 
-      <div class="flex items-center justify-center md:text-3xl font-bold bg-mighty-purple text-mint-green">
-        {months}
+        <div class="flex items-center justify-center md:text-3xl font-bold bg-mighty-purple text-mint-green py-4">
+          {months}
+        </div>
+        <div class="flex items-center justify-center md:text-3xl font-bold bg-mighty-purple text-mint-green py-4">
+          {days}
+        </div>
+        <div class="flex items-center justify-center md:text-3xl font-bold bg-mighty-purple text-mint-green py-4">
+          {hours}
+        </div>
+        <div class="flex items-center justify-center md:text-3xl font-bold bg-mighty-purple text-mint-green py-4">
+          {seconds}
+        </div>
       </div>
-      <div class="flex items-center justify-center md:text-3xl font-bold bg-mighty-purple text-mint-green">
-        {days}
-      </div>
-      <div class="flex items-center justify-center md:text-3xl font-bold bg-mighty-purple text-mint-green">
-        {hours}
-      </div>
-      <div class="flex items-center justify-center md:text-3xl font-bold bg-mighty-purple text-mint-green">
-        {seconds}
-      </div>
-    </div>
-    <div class="mx-16 md:mx-0 grid grid-cols-4 font-bold gap-1">
-      <div class="text-center text-xs">
-        months
-      </div>
-      <div class="text-center text-xs">
-        days
-      </div>
-      <div class="text-center text-xs">
-        hours
-      </div>
-      <div class="text-center text-xs">
-        minutes
+
+      <div class="grid grid-cols-4 justify-center gap-1">
+        <div class="text-center text-xs md:text">
+          months
+        </div>
+        <div class="text-center text-xs md:text">
+          days
+        </div>
+        <div class="text-center text-xs md:text">
+          hours
+        </div>
+        <div class="text-center text-xs md:text">
+          minutes
+        </div>
       </div>
     </div>
   </div>

@@ -47,21 +47,21 @@
   <div class="md:col-span-3 grid md:grid-cols-3 gap-4 mx-16 lg:mx-0 lg:gap-16 md:order-4">
     <a
       href="/de/about"
-      class="font-bold text-lg lg:text-2xl bg-mint-green border border-mighty-purple py-4 md:py-8 text-center"
+      class="text-lg lg:text-xl py-4 md:py-6 text-center bg-mint-green border border-mighty-purple"
     >
       Motivation
     </a>
 
     <a
       href="/de/survey"
-      class="font-bold text-lg lg:text-2xl py-4 md:py-8 text-center bg-mighty-purple text-mint-green"
+      class="text-lg lg:text-xl py-4 md:py-6 text-center bg-mighty-purple text-mint-green"
     >
       Kurze Umfrage
     </a>
 
     <a
       href="/de/blog"
-      class="font-bold text-lg lg:text-2xl bg-mint-green border border-mighty-purple py-4 md:py-8 text-center"
+      class="text-lg lg:text-xl py-4 md:py-6 text-center bg-mint-green border border-mighty-purple"
     >
       Blog
     </a>
@@ -75,47 +75,52 @@
     md:row-span-2
     self-stretch
     grid
-    grid-rows-3
+    grid-rows-2
     items-stretch
-    px-4
+    px-2
     gap-1
     md:gap-2
     md:order-3
   ">
     <div class="text-center py-4 md:py-8">
-      <h3 class="mb-2">Official site & service</h3>
+      <h3 class="mb-2">
+        Offizielle Website & Service
+      </h3>
       <h2 class="md:text-2xl font-bold">
-        launching in
+        Einführung in
       </h2>
     </div>
-    <div class="mx-16 md:mx-0 grid grid-cols-4 justify-center gap-1 relative">
-      <hr class="absolute w-full h-px bg-mighty-purple border-0 top-1/2" />
+    <div class="mx-16 md:mx-0 flex flex-col justify-stretch">
+      <div class="grid grid-cols-4 justify-center gap-1 relative">
+        <hr class="absolute w-full h-px bg-mighty-purple border-0 top-1/2" />
 
-      <div class="flex items-center justify-center md:text-3xl font-bold bg-mint-green text-mighty-purple">
-        {months}
+        <div class="flex items-center justify-center md:text-3xl font-bold bg-mint-green text-mighty-purple py-4">
+          {months}
+        </div>
+        <div class="flex items-center justify-center md:text-3xl font-bold bg-mint-green text-mighty-purple py-4">
+          {days}
+        </div>
+        <div class="flex items-center justify-center md:text-3xl font-bold bg-mint-green text-mighty-purple py-4">
+          {hours}
+        </div>
+        <div class="flex items-center justify-center md:text-3xl font-bold bg-mint-green text-mighty-purple py-4">
+          {seconds}
+        </div>
       </div>
-      <div class="flex items-center justify-center md:text-3xl font-bold bg-mint-green text-mighty-purple">
-        {days}
-      </div>
-      <div class="flex items-center justify-center md:text-3xl font-bold bg-mint-green text-mighty-purple">
-        {hours}
-      </div>
-      <div class="flex items-center justify-center md:text-3xl font-bold bg-mint-green text-mighty-purple">
-        {seconds}
-      </div>
-    </div>
-    <div class="mx-16 md:mx-0 grid grid-cols-4 font-bold gap-1">
-      <div class="text-center text-xs">
-        monate
-      </div>
-      <div class="text-center text-xs">
-        tage
-      </div>
-      <div class="text-center text-xs">
-        stunden
-      </div>
-      <div class="text-center text-xs">
-        minuten
+
+      <div class="grid grid-cols-4 justify-center gap-1">
+        <div class="text-center text-xs md:text">
+          monate
+        </div>
+        <div class="text-center text-xs md:text">
+          tage
+        </div>
+        <div class="text-center text-xs md:text">
+          stunden
+        </div>
+        <div class="text-center text-xs md:text">
+          minuten
+        </div>
       </div>
     </div>
   </div>
