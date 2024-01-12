@@ -32,19 +32,19 @@
   <meta name="description" content="Goose is a platform for freelancers to find work and for clients to find freelancers.">
 </svelte:head>
 
-<div class="h-full grid md:grid-cols-4 md:grid-rows-3 gap-8 lg:gap-16 py-16 items-center">
+<div class="h-full grid md:grid-cols-4 md:grid-rows-3 gap-12 lg:gap-y-32 py-16 items-center">
 
   <div class="md:col-span-4 md:order-1">
     <img src="/images/logo-green.svg" alt="Goose logo" class="w-1/2 mx-auto md:mx-0">
   </div>
 
-  <div class="md:col-span-3 md:order-2">
+  <div class="md:col-span-3 md:order-2 self-start">
     <p class="text-sm md:text-xl text-center md:text-left">
       We’ll take care of your key pain points so that you can focus on taking care of your wellbeing, your work priorities, and your goals.
     </p>
   </div>
 
-  <div class="md:col-span-3 grid md:grid-cols-3 gap-4 lg:gap-16 md:order-4">
+  <div class="md:col-span-3 grid md:grid-cols-3 gap-4 lg:gap-16 md:order-4 self-end">
     <a
       href="/about"
       class="text-lg lg:text-xl bg-welsh-slate py-4 lg:py-6 text-center"
