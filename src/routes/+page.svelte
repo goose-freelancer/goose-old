@@ -44,24 +44,24 @@
     </p>
   </div>
 
-  <div class="md:col-span-3 grid md:grid-cols-3 gap-4 mx-16 lg:mx-0 lg:gap-16 md:order-4">
+  <div class="md:col-span-3 grid md:grid-cols-3 gap-4 lg:gap-16 md:order-4">
     <a
       href="/about"
-      class="text-lg lg:text-xl bg-welsh-slate py-4 md:py-6 text-center"
+      class="text-lg lg:text-xl bg-welsh-slate py-4 lg:py-6 text-center"
     >
       Tell Me More
     </a>
 
     <a
       href="/survey"
-      class="text-lg lg:text-xl py-4 md:py-6 text-center bg-mint-green text-mighty-purple"
+      class="text-lg lg:text-xl py-4 lg:py-6 text-center bg-mint-green text-mighty-purple"
     >
       Survey
     </a>
 
     <a
       href="/blog"
-      class="text-lg lg:text-xl bg-welsh-slate py-4 md:py-6 text-center"
+      class="text-lg lg:text-xl bg-welsh-slate py-4 lg:py-6 text-center"
     >
       Blog
     </a>
@@ -86,7 +86,7 @@
       <h3 class="mb-2">
         Official site & service
       </h3>
-      <h2 class="md:text-2xl font-bold">
+      <h2 class="md:text-xl font-bold">
         launching in
       </h2>
     </div>

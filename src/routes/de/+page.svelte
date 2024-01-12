@@ -44,24 +44,24 @@
     </p>
   </div>
 
-  <div class="md:col-span-3 grid md:grid-cols-3 gap-4 mx-16 lg:mx-0 lg:gap-16 md:order-4">
+  <div class="md:col-span-3 grid md:grid-cols-3 gap-4 lg:mx-0 lg:gap-16 md:order-4">
     <a
       href="/de/about"
-      class="text-lg lg:text-xl py-4 md:py-6 text-center bg-mint-green border border-mighty-purple"
+      class="text-lg lg:text-xl py-4 lg:py-6 text-center bg-mint-green border border-mighty-purple"
     >
       Motivation
     </a>
 
     <a
       href="/de/survey"
-      class="text-lg lg:text-xl py-4 md:py-6 text-center bg-mighty-purple text-mint-green"
+      class="text-lg lg:text-xl py-4 lg:py-6 text-center bg-mighty-purple text-mint-green"
     >
       Kurze Umfrage
     </a>
 
     <a
       href="/de/blog"
-      class="text-lg lg:text-xl py-4 md:py-6 text-center bg-mint-green border border-mighty-purple"
+      class="text-lg lg:text-xl py-4 lg:py-6 text-center bg-mint-green border border-mighty-purple"
     >
       Blog
     </a>
@@ -86,7 +86,7 @@
       <h3 class="mb-2">
         Offizielle Website & Service
       </h3>
-      <h2 class="md:text-2xl font-bold">
+      <h2 class="md:text-xl font-bold">
         Einführung in
       </h2>
     </div>
