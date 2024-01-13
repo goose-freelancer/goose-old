@@ -4,7 +4,7 @@
     <img src="/images/tuleka.jpg" alt="Tuleka" class="">
     <a href="mailto:tuleka@goosefreelancer.com">tuleka@goosefreelancer.com</a>
   </div>
-  <div class="md:order-1 col-span-3 h-full overflow-auto px-12">
+  <div class="md:order-1 col-span-3 h-full overflow-auto px-6">
 
     <p class="mb-8 text-justify md:text-left">
       Hallo 👋🏾 Ich bin <a href="https://www.linkedin.com/in/tuleka-prah-phd-55b22115a/" target="_blank" class="underline">Tuleka</a>! Danke fürs Vorbeischauen 🙂 Nachfolgend eine kurze Vorgeschichte und Erklärung, worum es hier geht.
