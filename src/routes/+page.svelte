@@ -1,13 +1,15 @@
 <script>
-  import { differenceInMonths, differenceInDays, differenceInHours, differenceInMinutes } from 'date-fns';
+  import { differenceInMonths, addMonths, differenceInDays, differenceInHours, differenceInMinutes } from 'date-fns';
 
   function timeUntilSeptember2024() {
     const currentDate = new Date();
 
-    const targetDate = new Date('2024-09-01');
+    const targetDate = new Date('2024-09-02');
 
     const months = differenceInMonths(targetDate, currentDate);
-    const days = differenceInDays(targetDate, currentDate) % 30;
+
+    const inXMonths = addMonths(currentDate, months);
+    const days = differenceInDays(targetDate, inXMonths);
     const hours = differenceInHours(targetDate, currentDate) % 24;
     const seconds = differenceInMinutes(targetDate, currentDate) % 60;
 
