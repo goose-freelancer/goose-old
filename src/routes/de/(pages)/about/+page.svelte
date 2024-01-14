@@ -1,8 +1,15 @@
+<div class="grow overflow-hidden flex flex-col md:grid md:grid-cols-5 items-top gap-12 pb-24 md:pb-0">
+  <div class="md:order-2 col-span-2 flex flex-col gap-12 items-center">
+    <div class="flex flex-col gap-4 items-center">
+      <img src="/images/tuleka.jpg" alt="Tuleka" class="w-2/3">
+      <a href="mailto:tuleka@goosefreelancer.com">tuleka@goosefreelancer.com</a>
+    </div>
 
-<div class="grow overflow-hidden flex flex-col md:grid md:grid-cols-5 items-top gap-12">
-  <div class="md:order-2 col-span-2 flex flex-col gap-4 items-center">
-    <img src="/images/tuleka.jpg" alt="Tuleka" class="">
-    <a href="mailto:tuleka@goosefreelancer.com">tuleka@goosefreelancer.com</a>
+    <div class="fixed bottom-0 bg-mint-green p-4 md:static grid grid-cols-3 w-full items-center gap-4 lg:gap-8 border-t md:border-0 border-mighty-purple">
+      <a href="/de/survey" class="block bg-mighty-purple text-mint-green text-center py-4">Kurze Umfrage</a>
+      <a href="/de/blog" class="block bg-welsh-slate text-mint-green text-center py-4">Blog</a>
+      <a href="/de/" class="block bg-mighty-purple text-mint-green text-center py-4">Start</a>
+    </div>
   </div>
   <div class="md:order-1 col-span-3 h-full overflow-auto px-6">
 
