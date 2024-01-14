@@ -10,26 +10,34 @@
     </p>
   </div>
 
-  <div class="sm:col-span-2 mb-8">
-    <a
-      href="https://goosefreelancer.typeform.com/to/fm1nQBo8"
-      target="_blank"
-      class="
-        font-bold
-        text-xl
-        md:text-2xl
-        bg-mint-green
-        text-mighty-purple
-        p-4
-        md:p-8
-        md:mx-8
-        flex
-        text-center
-        items-center
-        justify-center
-      "
-    >
-      Quick Survey
-    </a>
+  <div class="sm:col-span-2 mb-8 grid grid-rows-4 gap-12">
+    <div class="row-span-3 flex flex-col justify-center">
+      <a
+        href="https://goosefreelancer.typeform.com/to/fm1nQBo8"
+        target="_blank"
+        class="
+          font-bold
+          text-xl
+          md:text-2xl
+          bg-mint-green
+          text-mighty-purple
+          p-4
+          md:p-8
+          md:mx-8
+          flex
+          text-center
+          items-center
+          justify-center
+        "
+      >
+        Quick Survey
+      </a>
+    </div>
+
+    <div class="fixed bottom-0 left-0 bg-mighty-purple md:static flex flex-row w-full items-center gap-2 lg:gap-8 border-t md:border-0 border-mint-green p-4">
+      <a href="/" class="block grow bg-mint-green text-mighty-purple text-center py-4">Home</a>
+      <a href="/about" class="block grow bg-welsh-slate text-mint-green text-center py-4">Tell Me More</a>
+      <a href="/blog" class="block grow bg-mint-green text-mighty-purple text-center py-4">Blog</a>
+    </div>
   </div>
 </div>

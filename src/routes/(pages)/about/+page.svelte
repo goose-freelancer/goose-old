@@ -7,9 +7,9 @@
     </div>
 
     <div class="fixed bottom-0 bg-mighty-purple p-4 md:static grid grid-cols-3 w-full items-center gap-4 lg:gap-8 border-t md:border-0 border-mint-green">
-      <a href="/survey" class="block bg-mint-green text-mighty-purple text-center py-4">Survey</a>
-      <a href="/blog" class="block bg-welsh-slate text-mint-green text-center py-4">Blog</a>
       <a href="/" class="block bg-mint-green text-mighty-purple text-center py-4">Home</a>
+      <a href="/blog" class="block bg-welsh-slate text-mint-green text-center py-4">Blog</a>
+      <a href="/survey" class="block bg-mint-green text-mighty-purple text-center py-4">Survey</a>
     </div>
   </div>
   <div class="md:order-1 col-span-3 h-full overflow-auto px-6">
