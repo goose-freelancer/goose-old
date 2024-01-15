@@ -6,7 +6,7 @@
       <a href="mailto:tuleka@goosefreelancer.com">tuleka@goosefreelancer.com</a>
     </div>
 
-    <div class="fixed bottom-0 bg-mighty-purple p-4 md:static grid grid-cols-3 w-full items-center gap-4 lg:gap-8 border-t md:border-0 border-mint-green">
+    <div class="fixed bottom-0 bg-mighty-purple p-4 md:static grid grid-cols-3 w-full items-center gap-4 border-t md:border-0 border-mint-green">
       <a href="/" class="block bg-mint-green text-mighty-purple text-center py-4">Home</a>
       <a href="/blog" class="block bg-welsh-slate text-mint-green text-center py-4">Blog</a>
       <a href="/survey" class="block bg-mint-green text-mighty-purple text-center py-4">Survey</a>

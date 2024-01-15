@@ -34,7 +34,7 @@
       </a>
     </div>
 
-    <div class="fixed bottom-0 left-0 bg-mint-green md:static flex flex-row w-full items-center gap-2 lg:gap-8 border-t md:border-0 border-mighty-purple p-4">
+    <div class="fixed bottom-0 left-0 bg-mint-green md:static flex flex-row w-full items-center gap-2 lg:gap-4 border-t md:border-0 border-mighty-purple p-4">
       <a href="/de" class="block grow bg-mighty-purple text-mint-green text-center py-4">Start</a>
       <a href="/de/blog" class="block grow bg-welsh-slate text-mint-green text-center py-4">Blog</a>
       <a href="/de/about" class="block grow bg-mighty-purple text-mint-green text-center py-4">Motivation</a>

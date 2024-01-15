@@ -20,7 +20,7 @@
       md:left-auto
       items-center
       gap-2
-      lg:gap-8
+      lg:gap-4
       border-t
       md:border-0
       border-mighty-purple
