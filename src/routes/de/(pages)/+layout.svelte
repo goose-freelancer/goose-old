@@ -4,6 +4,6 @@
   </a>
 </header>
 
-<main class="grow md:overflow-hidden flex">
+<main class="grow md:overflow-hidden flex flex-col">
   <slot />
 </main>
