@@ -30,8 +30,18 @@
 </script>
 
 <svelte:head>
-  <title>Goose</title>
+  <title>Goose Freelancer</title>
+  <meta property='og:title'  content='Goose Freelancer'>
+  <meta name='twitter:title' content='Goose Freelancer'>
+
   <meta name="description" content="Goose is a service that offers support and protections around your key freelancing administrative needs.">
+
+  <link rel='canonical'       href='https://www.goosefreelancer.com/'>
+  <meta property='og:url'  content='https://www.goosefreelancer.com/'>
+  <meta name='twitter:url' content='https://www.goosefreelancer.com/'>
+
+  <meta property="og:image"  content="http://www.goosefreelancer.com/images/logo-green.svg">
+  <meta name="twitter:image" content="http://www.goosefreelancer.com/images/logo-green.svg">
 </svelte:head>
 
 <div class="h-full grid md:grid-cols-4 md:grid-rows-3 gap-12 lg:gap-y-32 py-16 items-center">
