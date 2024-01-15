@@ -31,7 +31,7 @@
 
 <svelte:head>
   <title>Goose</title>
-  <meta name="description" content="Goose is a platform for freelancers to find work and for clients to find freelancers.">
+  <meta name="description" content="Goose is a service that offers support and protections around your key freelancing administrative needs.">
 </svelte:head>
 
 <div class="h-full grid md:grid-cols-4 md:grid-rows-3 gap-12 lg:gap-y-32 py-16 items-center">
