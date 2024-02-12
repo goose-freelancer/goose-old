@@ -30,7 +30,7 @@
 </script>
 
 <svelte:head>
-  <title>Goose Freelancer</title>
+  <title>Goose</title>
   <meta property='og:title'  content='Goose Freelancer'>
   <meta name='twitter:title' content='Goose Freelancer'>
 
