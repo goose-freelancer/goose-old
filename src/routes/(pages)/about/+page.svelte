@@ -26,19 +26,15 @@
     </p>
 
     <p class="mb-8 text-left">
-      <strong>What’s next?</strong> We’d love to establish a service that supports and protects freelancers by directly addressing the key challenges faced by many in this world of work. But because what I’d experienced are my experiences, it won’t make sense to build something based on those alone; how can I propose to establish a service that addresses key pain points, without asking the community directly?
+      <strong>What’s next?</strong> We’ve gathered the input you shared via our survey about your experiences as a freelancer, and – based on that –will now focus on the most-impactful solutions for your top-rated challenges.
     </p>
 
     <p class="mb-8 text-left">
-      So, this is me doing that! I’d love your input on what your biggest challenges are when it comes to freelancing. <strong>What are your burdens – what causes you frustration, stress, and anxiety when it comes to being a freelancer?</strong> With your responses, we can develop a service that truly supports freelancers, because it’ll be built in direct collaboration and communication with the community.
+      Our goal is to build a service that offers support and protections around your key freelance administrative needs. In doing so, our ultimate mission is to therefore offer our growing community of freelancers peace of mind, and the possibility of truly finding balance when it comes to work/life.
     </p>
 
     <p class="mb-8 text-left">
-      <strong>So what happens now?</strong> If you click <a href="https://goosefreelancer.typeform.com/to/fm1nQBo8" target="_blank" class="underline">here</a>, you’ll be taken to a window where you’ll be asked to fill out a short survey about your experience as a freelancer.
-    </p>
-
-    <p class="mb-8 text-left">
-      Thanks a lot; your input is very much appreciated!
+      We're also going to be updating this site, so stay tuned for all the good stuff to come!"
     </p>
   </div>
 </div>

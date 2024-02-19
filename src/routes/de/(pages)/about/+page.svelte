@@ -26,19 +26,15 @@
     </p>
 
     <p class="mb-8 text-left">
-      <strong>Was kommt als Nächstes?</strong> Wir würden gerne einen Service einrichten, der Freiberufler unterstützt und schützt, indem er direkt auf die wichtigsten Herausforderungen eingeht, mit denen viele in dieser Arbeitswelt konfrontiert sind. Aber da es sich bei meinen Erfahrungen um meine Erfahrungen handelt, macht es keinen Sinn, etwas zu entwickeln, das nur auf diesen Erfahrungen basiert. Wie kann ich einen Service vorschlagen, der die wichtigsten Probleme angeht, ohne die Community direkt zu fragen?
+      <strong>Was kommt als Nächstes?</strong> Wir haben den Input, den du in unserer Umfrage über deine Erfahrungen als Freiberufler geteilt hast, gesammelt und werden uns nun – basierend darauf – auf die wirkungsvollsten Lösungen für die von dir am häufigsten genannten Herausforderungen konzentrieren.
     </p>
 
     <p class="mb-8 text-left">
-      Und genau das tue ich jetzt! Ich würde mich freuen, wenn du mir sagst, was deine größten Herausforderungen bei der Freiberuflichkeit sind. <strong>Was belastet dich - was verursacht bei dir Frustration, Stress und Ängste, wenn du Freiberufler bist?</strong> Mit euren Antworten können wir einen Service entwickeln, der Freiberufler wirklich unterstützt, weil er in direkter Zusammenarbeit und Kommunikation mit der Community aufgebaut wird.
+      Unser Ziel ist es, einen Service zu entwickeln, der Unterstützung und Schutz für Ihre wichtigsten administrativen Anforderungen als Freiberufler bietet. Unser Ziel ist es, unserer wachsenden Gemeinschaft von Freiberuflern die Möglichkeit zu geben, ein ausgewogenes Verhältnis zwischen Arbeit und Privatleben zu finden.
     </p>
 
     <p class="mb-8 text-left">
-      <strong>Was passiert also jetzt?</strong> Wenn du <a href="https://goosefreelancer.typeform.com/to/fm1nQBo8" target="_blank" class="underline">hier</a> klickst, wirst du zu einem Fenster weitergeleitet, in dem du gebeten wirst, eine kurze Umfrage über deine Erfahrungen als Freiberufler auszufüllen.
-    </p>
-
-    <p class="mb-8 text-left">
-      Vielen Dank; wir wissen eure Meinung sehr zu schätzen!
+      Wir werden auch diese Website aktualisieren, also bleibt dran für all die guten Dinge, die kommen werden!
     </p>
   </div>
 </div>
